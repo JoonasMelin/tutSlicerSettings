@@ -20,4 +20,4 @@ Printing
 * Go to http://www.botqueue.com/, login, add new job, upload gcode and watch it print
 
 
-(1): MF bed size 150x150, LulzBot 300x300
+(1): MF bed size 150x150x150, LulzBot 298x275x250
