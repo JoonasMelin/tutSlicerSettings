@@ -35,6 +35,7 @@ You can download Mattercontrol from http://www.mattercontrol.com/#jumpMatterCont
 The program has a fairly well documented process as to how to add files to the build platform and how to reorient them to print well. You can also finetune your settings if needed.
 
 This repository will have the settings for Lulzbot Taz4 that you can import to the program.
+Import the settings by selecting/creating a new printer (TAZ4 is already a predefined choice). Click Settings&controls -> Options -> Import and import the ini file from the Mattercontrol folder in this repository.
 After importing the settings, you need to select/create new printer and select that as active and simply click "Export" and select Gcode as the option. Once you have the Gcode exported, you can move on to uploading the file to Botqueue
 
 ## Slic3r
